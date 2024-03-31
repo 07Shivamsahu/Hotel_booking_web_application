@@ -1,5 +1,3 @@
-1st part- https://www.youtube.com/watch?v=0XJu4Nnl0Kc
-final part- https://www.youtube.com/watch?v=7gZwWSsGIDE
 # Features of Hotel Booking web application:
 
 1. User Authentication and Authorization:;
@@ -109,12 +107,3 @@ Upon successful payment, the backend confirms the booking and sends a confirmati
 Admin performs operations like adding/editing/deleting hotels, managing bookings, etc.
 Admin interface interacts with backend services to perform these operations.
 
-
-Recommend- https://www.youtube.com/watch?v=0XJu4Nnl0Kc
-Ongoing tasks: videopoint- 7:04:50
-edit rooms backend
-
-Features completed :
-1. Add room
-2. Existing rooms
-3. edit rooms
